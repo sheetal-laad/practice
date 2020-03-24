@@ -1,2 +1,2 @@
 # practice
-practic repo
+ first practic repo
